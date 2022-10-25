@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @BilalAshiq
+- 👋 Hi, I’m 
 - 👀 I’m interested in 
-- 🌱 I’m currently learning PHP and MySQL
-- 💞️ I’m looking to collaborate on a Project
-- 📫 How to reach me ... Instagram : https://instagram.com/elliot_alderson.2
+- 🌱 I’m currently learning 
+- 💞️ I’m looking to collaborate on 
+- 📫 How to reach me ... 
 
 <!---
 BilalAshiq/BilalAshiq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
