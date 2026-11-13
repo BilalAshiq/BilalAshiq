@@ -1,109 +1,89 @@
-<!--
-  Profile README for BilalAshiq
-  Repository name must exactly match your GitHub username: BilalAshiq
-  Upload assets/profile-banner.png alongside this README.
--->
+<!-- Replace every YOUR_USERNAME, YOUR NAME, etc. before publishing -->
 
+<!-- ===== HEADER BANNER ===== -->
 <div align="center">
-  <img src="./assets/profile-banner.png" alt="Abstract dark blue and violet technology banner" width="100%" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Hi%2C%20I'm%20YOUR%20NAME&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Student%20%7C%20Learner%20%7C%20Future%20Developer&descAlignY=58&descSize=18" width="100%" />
+
+<!-- Typing animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=520&lines=Class+XX+Student+%F0%9F%8E%93;Learning+to+code+every+day+%F0%9F%92%BB;Turning+ideas+into+projects+%F0%9F%9A%80;Always+curious.+Always+building." alt="Typing SVG" />
+</a>
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=00d9ff&style=for-the-badge&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&color=2c5364&logo=github)
+
 </div>
-
-<h1 align="center">Hey, I'm Bilal </h1>
-
-<p align="center">
-  <strong>CSE Student · Web Developer · Building for the Web</strong>
-</p>
-
-<p align="center">
-  <a href="https://github.com/BilalAshiq">
-    <img src="https://img.shields.io/badge/GitHub-BilalAshiq-181717?style=for-the-badge&logo=github" alt="GitHub" />
-  </a>
-  <a href="https://bilalashiq.netlify.app">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
-  </a>
-</p>
 
 ---
 
-## `01` — About me
+## 👋 About Me
 
-```javascript
-const bilal = {
-  role: "Computer Science Engineering Student",
-  focus: "Web Development", "Full Stack Developer",
-  recentlyBuilt: "CampusLoop", "ReWaste-LPU",
-};
-```
+- 🎓 I'm a student at **LOVELY PROFESSIONAL UNIVERSITY**,
+- 🔭 Currently learning: **Python / HTML & CSS / JavaScript**
+- 🌱 Working on: **YOUR CURRENT PROJECT**
+- 🎯 Goal: Build real projects and grow as a developer
+- ⚡ Fun fact: **ADD SOMETHING FUN ABOUT YOU**
 
-I'm a Computer Science Engineering student interested in building useful web experiences and turning ideas into working products. I enjoy working across the frontend and backend, learning by building, and collaborating on practical projects.
+---
 
-- 🎓 Studying Computer Science Engineering at **Lovely Professional University**
-- 💻 Working with web technologies across frontend and backend
-- 🚀 Building projects that solve practical, real-world problems
-- 🤝 Interested in collaboration, hackathons, and learning from other developers
+## 🛠️ Tech Stack
 
-## `02` — Tech stack
+<div align="center">
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,jquery,php,mysql&theme=dark" alt="HTML5, CSS3, JavaScript, Bootstrap, jQuery, PHP and MySQL" />
-</p>
+<img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,vscode&theme=dark" />
 
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-  <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white" alt="jQuery" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-</p>
+</div>
 
-## `03` — Selected projects
+*(Add or remove icons: see the list at https://skillicons.dev)*
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🎓 CampusLoop</h3>
-      <p>A campus-focused platform designed to help students rent, buy, and sell items, explore PG accommodation, check roommate availability, estimate room expenses, and connect with dealers.</p>
-      <p><strong>My contribution:</strong> Backend development, with additional involvement in UI/UX.</p>
-      <p><a href="https://github.com/BilalAshiq/">Browse my repositories ↗</a></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🏆 Quiz Master</h3>
-      <p>An interactive quiz platform featuring multiple-choice questions, instant feedback, and a responsive interface to make learning and knowledge testing engaging.</p>
-      <p><a href="https://github.com/BilalAshiq/quiz-master">Github Repo Link ↗</a></p>
-    </td>
-  </tr>
-</table>
+---
 
-## `04` — Hackathons & achievements
+## 📊 GitHub Stats
 
-- 🏅 **Two hackathon certificates** — recognition of participation in hackathon activities.
-- 🛠️ **Project experience** — contributed to building practical, working web projects, including CampusLoop.
-- 🤝 **Team collaboration** — experience contributing to backend development and UI/UX in a team project.
+<div align="center">
 
-## `05` — GitHub activity
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=BilalAshiq&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" alt="Bilal's GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BilalAshiq&layout=compact&hide_border=true&theme=github_dark" alt="Most used languages" />
-</p>
+</div>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=BilalAshiq&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak" />
-</p>
+---
 
-## `06` — Find me online
+## 📌 Featured Projects
 
-<p align="left">
-  <a href="https://github.com/BilalAshiq">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://bilalashiq.netlify.app">
-    <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
-  </a>
-</p>
+| Project | Description | Tech |
+|---------|-------------|------|
+| [**Project One**](https://github.com/YOUR_USERNAME/project-one) | One-line about what it does | Python |
+| [**Project Two**](https://github.com/YOUR_USERNAME/project-two) | One-line about what it does | HTML, CSS |
+| [**School Assignments**](https://github.com/YOUR_USERNAME/assignments) | My coursework and submissions | Various |
 
-<p align="center">
-  <sub>Thanks for stopping by. Feel free to explore my repositories!</sub>
-</p>
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<!-- Optional: needs a GitHub Action, see Platane/snk on GitHub. Delete this section if you skip it. -->
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+
+</div>
+
+---
+
+## 📫 Let's Connect
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-0f2027?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+
+<br/>
+
+*"The best way to learn is to build."* ✨
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer" width="100%" />
+
+</div>
