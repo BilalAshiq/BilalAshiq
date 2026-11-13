@@ -8,7 +8,7 @@
   <img src="./assets/profile-banner.png" alt="Abstract dark blue and violet technology banner" width="100%" />
 </div>
 
-<h1 align="center">Hey, I'm Bilal 👋</h1>
+<h1 align="center">Hey, I'm Bilal </h1>
 
 <p align="center">
   <strong>CSE Student · Web Developer · Building for the Web</strong>
@@ -30,9 +30,8 @@
 ```javascript
 const bilal = {
   role: "Computer Science Engineering Student",
-  focus: ["Web Development", "Backend Development", "Problem Solving"],
-  currentlyBuilding: ["CampusLoop", "ReWaste-LPU"],
-  mindset: "Learn continuously. Build thoughtfully. Improve every day."
+  focus: "Web Development", "Full Stack Developer",
+  recentlyBuilt: "CampusLoop", "ReWaste-LPU",
 };
 ```
 
@@ -67,12 +66,12 @@ I'm a Computer Science Engineering student interested in building useful web exp
       <h3>🎓 CampusLoop</h3>
       <p>A campus-focused platform designed to help students rent, buy, and sell items, explore PG accommodation, check roommate availability, estimate room expenses, and connect with dealers.</p>
       <p><strong>My contribution:</strong> Backend development, with additional involvement in UI/UX.</p>
-      <p><a href="https://github.com/BilalAshiq?tab=repositories">Browse my repositories ↗</a></p>
+      <p><a href="https://github.com/BilalAshiq/">Browse my repositories ↗</a></p>
     </td>
     <td width="50%" valign="top">
-      <h3>♻️ ReWaste-LPU</h3>
-      <p>A campus-focused waste-management and awareness project promoting more responsible waste disposal and sustainability.</p>
-      <p><a href="https://rewaste-lpu.vercel.app/">View live project ↗</a></p>
+      <h3>🏆 Quiz Master</h3>
+      <p>An interactive quiz platform featuring multiple-choice questions, instant feedback, and a responsive interface to make learning and knowledge testing engaging.</p>
+      <p><a href="https://github.com/BilalAshiq/quiz-master">Github Repo Link ↗</a></p>
     </td>
   </tr>
 </table>
